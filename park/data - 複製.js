@@ -38,7 +38,7 @@ var APP_DATA = {
           "yaw": 0.9966177061005226,
           "pitch": 0.07645034279626906,
           "title": "<span data-sheets-root=\"1\" style=\"font-size: 10pt; font-family: Arial;\">蘭雅公園</span>",
-          "text": "建於1984<div>位於台北市士林區三玉里</div>"
+          "text": "Text"
         }
       ]
     }
